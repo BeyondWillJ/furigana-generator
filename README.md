@@ -5,6 +5,8 @@
 [![GitHub release](https://img.shields.io/github/v/release/BeyondWillJ/furigana-generator?color=7ac1eb&label=version)](https://github.com/BeyondWillJ/furigana-generator/releases/latest)
 [![GitHub all releases](https://img.shields.io/github/downloads/BeyondWillJ/furigana-generator/total?color=95a5a6&label=downloads)](https://github.com/BeyondWillJ/furigana-generator/releases)
 
+![furigana-generator](https://img.beyondwj.cc/github/generator.png)
+
 ---
 
 ## 依赖安装
