@@ -2,6 +2,9 @@
 
 为日文文本自动添加振假名（ふりがな）。分词由 **fugashi + UniDic** 完成，汉字逐字对齐由 **KANJIDIC2 驱动的动态规划**完成，复合词连浊修正由 **jamdict** 补充。
 
+[![GitHub release](https://img.shields.io/github/v/release/BeyondWillJ/furigana-generator?color=7ac1eb&label=version)](https://github.com/BeyondWillJ/furigana-generator/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/BeyondWillJ/furigana-generator/total?color=95a5a6&label=downloads)](https://github.com/BeyondWillJ/furigana-generator/releases)
+
 ---
 
 ## 依赖安装
